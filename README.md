@@ -45,5 +45,3 @@ The project aims to establish a structured approach to data processing using the
 ## Usage Instructions
 To use the scripts, import them into a Databricks notebook environment and run them according to the desired data processing needs.
 
-## Contribution
-Feel free to contribute to the project by submitting a pull request or raising an issue.
