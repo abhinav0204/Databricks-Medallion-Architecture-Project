@@ -12,7 +12,7 @@ This project implements the Medallion architecture using Databricks, focusing on
      - Read and consolidate data from external sources.
      - Store the processed data in the Bronze layer.
 
-2. **Heka Batch Processing - Silver.py**:
+2. **Batch Processing - Silver.py**:
    - **Purpose**: Cleanses and transforms data from the Bronze layer, preparing it for the Gold layer.
    - **Key Steps**:
      - Set up the notebook environment.
